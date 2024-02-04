@@ -37,7 +37,7 @@ function App() {
 
   return (
     <div style={{ display: "block" }} className="App">
-      <h1>KNIT AI </h1>
+      <h1>KNIT AI EMAIL GENERATOR </h1>
       <form onSubmit={handleSubmit}>
         <label>
           Enter Details:
